@@ -1,7 +1,7 @@
 = Ajax Transport Reference
 :keywords: anypoint, connectors, ajax
 
-Ajax (Asynchronous Java and XML) is a group of interrelated web development techniques used for creating interactive web applications or rich Internet applications. With Ajax, web applications can retrieve data from the server asynchronously in the background without interfering with the display and behavior of the existing page.
+Ajax (Asynchronous Javascript and XML) is a group of interrelated web development techniques used for creating interactive web applications or rich Internet applications. With Ajax, web applications can retrieve data from the server asynchronously in the background without interfering with the display and behavior of the existing page.
 
 The Mule Ajax connector allows Mule events to be sent and received asynchronously to and from the web browser. The connector includes a JavaScript client that listens for events, sends events, and performs RPC calls. It can be deployed in Mule standalone or embedded in a servlet container such as Apache Tomcat or link:https://www.mulesoft.com/tcat/leading-enterprise-apache-tomcat-application-server[Tcat Server].
 
